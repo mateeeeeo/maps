@@ -121,3 +121,5 @@ coverage
 *.iml
 
 react-native-mapbox-gl-maps.tgz
+
+/lib
